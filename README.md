@@ -9,8 +9,8 @@ My solutions to https://github.com/rmurphey/js-assessment
 |flowControl.js|Done|
 |functions.js|Wip|
 |logicalOperators.js|Done|
-|modules.js|Wip|
+|modules.js|Code review|
 |numbers.js|Done|
-|objects.js|Wip|
+|objects.js|Done|
 |recursion.js|Wip|
-|regex.js|Code review|
+|regex.js|Done|
