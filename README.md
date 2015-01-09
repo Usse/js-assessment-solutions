@@ -3,7 +3,7 @@ My solutions to https://github.com/rmurphey/js-assessment
 
 |File name|Status|
 |---|---|
-|async.js|Done|
+|async.js|Wip|
 |bestPractices.js|Done|
 |count.js|Done|
 |flowControl.js|Done|
