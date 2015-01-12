@@ -3,14 +3,14 @@ My solutions to https://github.com/rmurphey/js-assessment
 
 |File name|Status|
 |---|---|
-|async.js|Wip|
+|async.js||
 |bestPractices.js|Done|
 |count.js|Done|
 |flowControl.js|Done|
-|functions.js|Wip|
+|functions.js|Working|
 |logicalOperators.js|Done|
-|modules.js|Code review|
+|modules.js|Done|
 |numbers.js|Done|
 |objects.js|Done|
-|recursion.js|Wip|
+|recursion.js||
 |regex.js|Done|
